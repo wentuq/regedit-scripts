@@ -1,4 +1,6 @@
 Windows Registry Editor Version 5.00
 
+
+; Disable Firewall
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\WindowsFirewall\StandardProfile]
 "EnableFirewall"=dword:00000000 

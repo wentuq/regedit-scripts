@@ -1,5 +1,6 @@
 Windows Registry Editor Version 5.00
 
+; No lock screen
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization]
 "NoLockScreen"=dword:00000001
 
