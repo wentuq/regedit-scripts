@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Disable Windows Defender notifications
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Security Center\Notifications]
+"DisableAntiSpyware"=dword:00000001

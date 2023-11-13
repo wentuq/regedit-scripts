@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Enable automatic restart after Windows updates (default setting)
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"NoAutoRebootWithLoggedOnUsers"=-

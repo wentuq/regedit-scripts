@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+; Disable notifications
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
+"NoToastApplicationNotification"=dword:00000001
+ 

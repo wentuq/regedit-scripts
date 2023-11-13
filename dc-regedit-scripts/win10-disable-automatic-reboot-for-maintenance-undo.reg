@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Allow automatic reboot for scheduled maintenance (default setting)
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\WindowsUpdate\Auto Update]
+"RebootRelaunchTimeoutEnabled"=-

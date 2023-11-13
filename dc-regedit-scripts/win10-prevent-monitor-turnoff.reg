@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Prevent monitor turnoff
+[HKEY_CURRENT_USER\Control Panel\PowerCfg]
+"CurrentPowerPolicy"=dword:00000000 

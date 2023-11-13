@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00
+
+; Disable Windows Action Center notifications
+[HKEY_CURRENT_USER\Software\Policies\Microsoft\Windows\Explorer]
+"DisableNotificationCenter"=dword:00000001
